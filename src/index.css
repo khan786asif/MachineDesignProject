@@ -1,0 +1,62 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background: url('images/bg\ \(2\).jpg') no-repeat center center fixed ;
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+
+section h1{
+  color: white;
+  text-align: center;
+  justify-content: center;
+  font-size: 35px;
+  margin: 20px 0px;
+  padding: 23px 23px;
+}
+h1 span{
+  color: rgb(245, 43, 167);
+}
+section h3{
+  color: white;
+  text-align: center;
+  font-size: 23px;
+}
+section p{
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  margin: 33px;
+}
+
+section .btn1{
+  margin-left: 538px;
+  padding: 8px 14px;
+  background-color: #df38dc;
+  font-size: 18px;
+  border: 2px solid white;
+  border-radius: 10px;
+  
+}
+section .btn2{
+  margin-left: 84px;
+  padding: 8px 14px;
+  background-color: #df38dc;
+  font-size: 18px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.btn1:hover{
+  background-color: white;
+  cursor: pointer;
+}
+.btn2:hover{
+  background-color: white;
+  cursor: pointer;
+}
+
